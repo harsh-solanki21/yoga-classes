@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('./components/image/yoga.jpg');
+  background-position: 'center';
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
